@@ -1,6 +1,7 @@
 ---
 title: The Limits of Liberalism
 author: Dave Kinkead
+email: d.kinkead@uq.edu.au
 status: rough draft
 license: CC-BY-NC-SA
 ---
