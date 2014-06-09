@@ -6,11 +6,34 @@ status: First Draft
 license: CC-BY-SA-NC
 ---
 
+# The Limits of Liberalism
+
+This is an argument about the compatibility, or rather _incompatibility_, of liberalism and democracy.  For much of it's modern history, democracy has been synonymous with _liberal democracy_, the system of government associated with the free and fair election of the legislative and executive branches, the rule of law, and constitutional checks and balances that limit the power of government and protect the individual freedoms and rights of the people.
+
+Both liberalism and democracy share many fundamental values.  Autonomy and self-determination, individual in the case of liberalism and collective for democracy, lie at the heart of both doctrines. So too does the ideal of equality in the form of equal tolerance and protections for all in the case of the former, and equal representation and political rights in the latter.  So to claim liberalism is incompatible with democracy will strike many as an absurd claim.  Yet a close examination of the requirements of both liberalism and democracy, and what they demand from each other, shows how the two fail to not just adequately complement but undermine themselves and each other.
+
+The structure of my argument is as follows:
+
+  1. Democracy requires constraints to its powers
+  2. Liberalism requires reconciliation of its contents
+  3. Democracy can't reconcile liberalism
+  4. Liberalism can't be imposed liberally
+  5. Therefore liberalism can't be reconciled (in liberal democracies)
+
+In part one of this paper, I will explore the nature of liberalism and democracy, their content and demands, and how they interact with one another.  While democracy is often conflated with liberalism, they are different conceptions of political power describing _who_ wields power and _what_ constraints are imposed upon that power.  As such, _illiberal democracy_ and _liberal non-democracy_ are just as coherent descriptions of political systems as the term liberal democracy is, with many historical and contemporary states accurately described as such.
+
+In part two, I will argue that democracy requires requires constraints upon its power, but these constraints need not be liberal, at least in the short term.  Yet democracy and liberalism share many fundamental values, not least the idea of self-determination so it seems highly unlikely that democracies constrained by illiberal means will remain stable over time.  Thus, liberal constraints to democratic power are complementary.
+
+In part three, I will examine how liberalism begets pluralism - within any liberal regime, the very freedoms that liberalism allows will entail a number of competing yet reasonable conceptions of what liberalism requires, protects, and prohibits.  Liberalism requires certain rights to be protected.  Yet the protection of any right necessarily comes at the expense of some other. Liberalism also entails reasonable disagreement concerning its contents.  This disagreement must somehow be reconciled.
+
+Finally in part four, I will demonstrate that attempts to reconcile liberalism democratically are self defeating. One way to reconcile the pluralism that liberalism entails is to do so democratically.  But democratic processes are collectively binding actions, and whenever we attempt to determine the which of freedoms and rights are immune from the scope of collectively binding action with collectively binding action, we render that immunity vacuous.  Thus it appears that liberalism's content cannot be reconciled liberally, exposing liberal democracies to serious risks of instability.
+
+
 ## Democracy & Liberalism
 
 #### Same same 
 
-I take it as uncontroversial the claim that the term _democracy_ has a broad and contested meaning [^note to gallie 1956]. In contemporary use, democracy may refer to idea, theory, or practice ranging from the direct participation of the people in a political process [cite], voting and the election of officials to hold public roles [cite], deliberation and the use of public reason [cite], to an epistemic tool that aggregates beliefs and enhances the truth content of them [cite]. Democracy need not limit its concerns to government and societal politics either - democracy can also be used to describe processes in the workplace [cite], within the family [cite], and democracy itself [cite].
+I take it as uncontroversial the claim that the term _democracy_ has a broad and contested meaning [^note to gallie 1956]. In contemporary use, democracy may refer to idea, theory, or practice ranging from the direct participation of the people in a political process [cite], voting and the election of officials to hold public roles [cite], deliberation and the use of public reason [cite], to an epistemic tool that aggregates beliefs and enhances the truth content of them [cite]. Democracy need not limit its concerns to government and societal politics either - democracy can also be used to describe processes in the workplace [cite], within the family [cite], and democracy itself [@keane2009].
 
 _Democracy_ has become synonymous with _liberal democracy_ and is often used to mean simply _liberalism_ [note with examples]. This is probably because for most of the last 200 years, every actual democracy was in fact a liberal democracy.  Whether in Western Europe, North America, or The Antipodes, democratic states were also liberal ones - key political rights and duties were made explicit in a constitution; and an independent judiciary provided an effective check and balance to the executive and legislative branches of government; and speech and religious beliefs were protected.  Liberalism is so intertwined with democracy in these cases that it seems hard to imagine one without the other.
 
@@ -18,7 +41,7 @@ Conversely, the non-Western world was typically, although not exclusively, both 
 
 This correlation between civil liberties and fair electoral processes is remarkably high.  Analysis of the most recent Freedom House's _Freedom of the World_ survey data, demonstrates a very strong relationship between liberalism and democracy - regression analysis shows an r value of 0.9578, a near perfect correlation.  
 
-[Freedom House 2014 chart]
+[Freedom House 2014 chart](scatter-plot.html)
 
 In addition to the strong empiric correlation, both liberalism and democracy also offer striking similarities in their conceptual appeal.  Democracy gives the people a high degree of self-determination, it makes them masters of their own political destiny more than any contemporary political system.  In short, democracy provide people with collective autonomy, the capacity to create their own laws and live by them.  Liberalism does the same for the individual in society.  It's requirements of tolerance, and the rule of law provide individuals with protection from the arbitrary decisions of others, allowing them to assert their own personal moral autonomy free the edicts of the state.
 
@@ -104,12 +127,13 @@ But what of long term stability?  Noting the strong alignment of liberal and dem
 
 Illiberal democracies then must ensure that the political friction emerging from this dissatisfaction is extinguished before it disrupts the political system.  Indoctrination of the demos in the virtues of a regime's illiberal doctrine is one way this can be achieved.   By prioritising the illiberal over the democratic, disputes over democratic and illiberal values can be resolved in favour of the latter.  If this fails however, illiberal democratic regimes must resort to the use of force against dissenters to ensure democratic stability, something Rawls christened 'the fact of oppression' [@rawls2005:p37]
 
+    More argument needed above.
+    Be clearer about how liberal constraints enhance stability ie by removing friction points.
+
 If, like many, we accept that the state's use of coercive oppression to promote a particular conception of the good is unjustified, then we must conclude that a stable democracy requires liberal constraints.  This does not however, undermine the conclusion that illiberal constraints are also sufficient for democratic stability in the long run, if we can overcome the moral objection to oppression.
 
 
 ## Liberalism & Pluralism
-
-> Liberalism requires certain rights to be protected.  The protection of any right necessarily comes at the expense of some other. Liberalism also entails reasonable disagreement concerning its contents.  This disagreement must somehow be reconciled.
 
 Just as democracy cannot stand alone as a concept or practice, neither can liberalism.  Like democracy, liberalism is also an essentially contested concept with a multitude of interpretations, many of which conflict and are irreconcilable with each other.  These differences are partly a result of what we mean by freedom, but also how we believe equality affects that freedom.  We therefore need to predicate the term _liberalism_ with a qualifying adjective - social, classical, welfare state, or republican, in order to adequately clarify our intentions.  
 
@@ -121,6 +145,11 @@ Protecting and promoting any right however, necessarily comes at the expense of 
 > -- Zechariah Chafee, Jr.
 
 The realisation of any liberal conception as a constraint on democracy, must therefore result in the prioritisation of certain protections over others.  We must order our individual rights and determine which are to take priority over others.  These orderings can be viewed as a set of liberal values - some sets will be more compatible with others.  Some may even represent the optimal set of individual rights compatible with all others.  Yet the long running debates concerning the content of liberal protections indicates that identifying an objectively best set of individual rights may never occur.  And even if an objectively optimal set did exist, there are no guarantees that this set would be unique, ensuring that the debate could never be settled.
+
+    More clarity needed above. Give examples of which rights are incompatible.
+    What is the role of Mill's harm principle?
+    Expand the idea of 'objective liberalism'.  
+    Show examples of non-unique optimal set.
 
 As many theorists have recognised, liberalism engenders a plurality of conceptions of the good, of religious and philosophical world views - what Rawls calls _comprehensive doctrines_. According to Rawls [@rawls2005:p55], these differences are a result of the burdens of our judgement.  He argues that free institutions, the manifestation of constitutional liberalism, result in a reasonable pluralism of belief concerning the good and how best to realise it.  
 
@@ -139,6 +168,9 @@ Now clearly liberalism doesn't require tolerance of all views and actions.  To a
 
 But unreasonable disagreement is not the concern here.  The disagreement concerning the contents of liberalism that needs to be reconciled is reasonable disagreement over competing, irreconcilable conceptions of what liberalism requires.  It is to these reasonable views that liberalism is unable to impose upon without undermining its own coherence.
 
+    More clarity needed above. 
+    Need to answer 'what is reasonable', 'what is an liberal action'
+
 So in liberal democracies, the obvious strategy for reconciliation is to do so democratically.  When disagreement over the required content of liberalism exists, we could simply deliberate, debate, and vote on what individual rights and freedoms should be protected.  Yet attempting to reconcile liberalism's content democratically renders the constraints liberalism imposes on democracy vacuous.
 
 Democratic processes are collectively binding actions.  Whether it is the majority vote of a direct democracy, a constitutional referenda, or an act of parliament, democratic processes are collective processes of the demos or their delegates. And while not every citizen may have voting in that process or the election of representative subsequently were, those who didn't where offered the opportunity to and chose not to participate.  Likewise, the results of any democratic process are binding - if the authority of a process is legitimate, then we have moral obligations to obey the outcome of that process.
@@ -151,36 +183,13 @@ Rawls offers us a different approach however, in the form of public reason.  By 
 
 Rawls however was adamant that this overlapping consensus would never be unanimous.  It was designed simply to generate a sufficiently broad consensus to ensure democratic stability, with disagreement still reconciled by voting or some other democratic process.  Yet the reliance on democratic processes to reconcile liberalism's content leaves in the same dilemma.
 
+    More engagement with public reason literature needed.
+    Why does Rawl's account fail?
+    What about Gaus & Quong?
+
 To be sure, public reason liberalism with its requirements of public discourse, of giving reasons that other reasonable people could reasonably accept, is highly likely to reduce the depth and breadth of disagreement concerning liberalism's content.  But short of unanimous agreement, it appears the liberalism will remain internally inconsistent.  Liberalism begets pluralism in both comprehensive conceptions of the good as well as the contents of liberalism - which individual rights require protection from the state.  But reasonable disagreement on these matters cannot be reconciled by either imposition or democratically, without undermining liberal values.  And when democratic stability relies on liberalism and its constraints to democratic power, the inability of liberalism to reconcile internal conflict becomes a problem for democracy.
 
+    Counter the 'so what' argument.  
+    Liberal democracies seem to exist in relative stability.  How much of this issue is theoretical vs pratical?
 
 
-
-
-
-
-
-
----
-
-# The Limits of Liberalism
-
-This is an argument about the compatibility, or rather _incompatibility_, of liberalism and democracy.  For much of it's modern history, democracy has been synonymous with _liberal democracy_, the system of government associated with the free and fair election of the legislative and executive branches, the rule of law, and constitutional checks and balances that limit the power of government and protect the individual freedoms and rights of the people.
-
-Both liberalism and democracy share many fundamental values.  Autonomy and self-determination, individual in the case of liberalism and collective for democracy, lie at the heart of both doctrines. So too does the ideal of equality in the form of equal tolerance and protections for all in the case of the former, and equal representation and political rights in the latter.  So to claim liberalism is incompatible with democracy will strike many as an absurd claim.  Yet a close examination of the requirements of both liberalism and democracy, and what they demand from each other, shows how the two fail to not just adequately complement but undermine themselves and each other.
-
-The structure of my argument is as follows:
-
-  1. Democracy requires constraints to its powers
-  2. Liberalism requires reconciliation of its contents
-  3. Democracy can't reconcile liberalism
-  4. Liberalism can't be imposed liberally
-  5. Therefore liberal democracies (as presently conceived) can't be liberal
-
-In part one of this paper, I will explore the nature of liberalism and democracy, their content and demands, and how they interact with one another.  I will argue that while democracy requires constraints upon its power, these constraints need not be liberal.
-
-In part two, I will demonstrate that attempts to reconcile liberalism democratically are self defeating. Liberalism begets pluralism - within any liberal regime, the very freedoms that liberalism allows will entail a number of competing yet reasonable conceptions of what liberalism requires, protects, and prohibits - and one way to reconcile this pluralism is to do so democratically.  But democratic processes are collectively binding actions, and whenever we attempt to determine the which of freedoms and rights are immune from the scope of collectively binding action with collectively binding action, we render that immunity vacuous.
-
-In part three, I evince that attempts to reconcile liberalism by imposition are equally self defeating.  Liberalism requires a degree freedom of belief and tolerance of the views of others.  Yet as Rawls pointed out, liberalism also entails pluralism in belief, including reasonable disagreement about the content of liberalism.  Imposing one conception of liberalism upon reasonable dissenters involves a decidedly illiberal lack of respect for those reasonable views. 
-
-Finally in part four, I examine some possible solutions to this problem, and argue that 
