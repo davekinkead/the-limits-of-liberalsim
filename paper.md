@@ -4,7 +4,7 @@ author: Dave Kinkead
 email: d.kinkead@uq.edu.au
 status: First Draft
 license: CC-BY-SA-NC
-bibliography: /Users/dave/Dropbox/Research/Reading Notes/.library.bibtex
+bibliography: /Users/dave/Dropbox/Research/readings/.library.bibtex
 ---
 
 # The Limits of Liberalism
