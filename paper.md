@@ -45,7 +45,7 @@ Conversely, the non-Western world was typically, although not exclusively, both 
 
 This correlation between civil liberties and fair electoral processes is remarkably high.  Analysis of the most recent Freedom House's _Freedom of the World_ survey data [@freedomhouse2014], demonstrates a very strong relationship between liberalism and democracy.  Charting civil liberties measured by freedom of expression and belief, associational and organisational rights, rule of law, and personal autonomy and individual rights; against political rights measured as electoral process, political pluralism and participation, and functioning of government for all 209 states and independent territories on the planet; and performing regression analysis shows an r value of 0.9578, a near perfect correlation.  
 
-![Freedom House 2014 chart](graph.png)  
+![Freedom House 2014 chart](files/graph.png)  
 [Figure 1 - Freedom House 2014 survey data scatter plot](scatter-plot.html)
 
 In addition to the strong empiric correlation, both liberalism and democracy also offer striking similarities in their conceptual appeal.  Democracy gives the people a high degree of self-determination, it makes them masters of their own political destiny more than any contemporary political system.  In short, democracy provides people with collective autonomy, the capacity to create their own laws and live by them.  Liberalism does the same for the individual in society.  Its requirements of tolerance, and the rule of law provide individuals with protection from the arbitrary decisions of others, allowing them to assert their own personal moral autonomy free the edicts of the state.
